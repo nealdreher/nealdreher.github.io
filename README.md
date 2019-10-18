@@ -5,7 +5,6 @@
 
 #### Background
 
-<pre>
 Neal Dreher is an IT professional with a background in application development, cybersecurity and AWS. He is focusing on learning full-stack application development using JavaScript frameworks, studying for additional AWS certifications and using infrastructure as code tools such as Terraform and CloudFormation.
 
 Peers describe Neal as passionate, enthusiastic and innovative. Neal is seeking positions related to cloud engineering and support, software engineering, cybersecurity or DevOps in the Austin area or Denver area.
@@ -14,7 +13,7 @@ Some of Neal’s favorite past projects include: working with clients to design 
 
 Neal will pass all drug tests, background and credit checks. He is willing to obtain federal security clearance or any necessary certifications.
 
-</pre>
+
 
 #### Skillset
 
