@@ -30,4 +30,4 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### References
 
-Please contact me via [LinkedIn](https://www.linkedin.com/in/nealdreher/) for a resume and professional references.
+Please contact Neal via [LinkedIn](https://www.linkedin.com/in/nealdreher/) for a resume and professional references.
