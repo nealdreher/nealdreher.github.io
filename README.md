@@ -18,8 +18,8 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### Skillset
 
-|  |  |  |
-|--|--|--|
+|  |  | 
+|--|--|
 | AWS | IAM, EC2, Route53, S3, CloudWatch, CloudTrail, SQS, SNS, CLI | 
 | Security | OWASP, NIST, Firewalls, Pen Testing,  |
 | Scripting | TerraForm, Python, BASH, Shell |
