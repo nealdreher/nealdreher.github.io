@@ -3,7 +3,7 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/nealdreher/)
 
-| | |
+| a | b |
 |--|--|
 | c | d |
 | e | f |
