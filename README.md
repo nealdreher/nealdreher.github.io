@@ -26,7 +26,9 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### Projects
 
-- 
+- [AWE EC2 webserver setup using Terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform/) - Using the Free Tier, use Terraform (infrastructure as code) to setup and destroy the AWS Infrastructre and server. Includes a bash script to configure the server.
+- [Digitally Imported Playlist Menu](https://nealalan.github.io/di.fm_playlist_menu/) - CLI playlist menu program. The first script requires a premium member API key to generate .pls files for each channel.
+- [Security Plus Exam Quiz](https://nealalan.github.io/quiz-giver-sec-plus/) - Python script I wrote to give random quiz questions that are scored. The script reads questions and answers from 2 large flat files.
 
 #### References
 
