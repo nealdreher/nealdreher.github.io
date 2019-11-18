@@ -5,13 +5,13 @@
 
 #### Background
 
-Neal Dreher is an IT professional with a background in application development, cybersecurity and cloud computing. He is focused on studying for additional AWS certifications, using infrastructure as code tools such as Terraform and CloudFormation and continuing to learn full-stack application development using JavaScript frameworks.
+Neal Dreher is an IT professional with a background in cybersecurity, cloud computing, application development and project management. He is focused on studying for additional AWS certifications, using infrastructure as code tools such as Terraform and CloudFormation and continuing to learn full-stack application development using JavaScript frameworks.
 
 Peers describe Neal as passionate, enthusiastic and innovative. Neal is seeking positions related to cloud engineering and support, software engineering, cybersecurity or DevOps.
 
 Some of Neal’s favorite past projects include: working with clients to design and implement technology and processes for new logistics facilities in Singapore and Australia, building APIs to integrate web front-ends into legacy applications and designing, coding and implementing a large product supersession and interchangeability project that automated an error-prone 400 hr/yr manual process.
 
-Neal will pass all drug tests, background and credit checks. He is willing to obtain federal security clearance or any necessary certifications.
+Neal will pass all drug tests, background and credit checks. He is willing to obtain DoD security clearance or any necessary certifications.
 
 #### Skillset
 
