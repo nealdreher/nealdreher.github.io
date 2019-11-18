@@ -15,7 +15,7 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### Skillset
 
-| AWS | IAM, EC2, Route53, S3, VPC, CloudFront, CloudWatch, CloudTrail, CloudFormation, SQS, SNS, CLI, RDS, CodeCommit| 
+| AWS | IAM, EC2, Route53, S3, VPC, CloudFront, CloudWatch, CloudTrail, CloudFormation, SQS, SNS, CLI, RDS, CodeCommit | 
 |--|--|
 | Security | Firewalls, OWASP, NIST, Pen Testing, Cryptography, Policy, vulnerability mgmt, Social Engineering, IR  |
 | Scripting | Python, BASH, Shell, Terraform |
@@ -23,6 +23,7 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 | Methodologies | CI/CD, Agile, 6Sigma, Test Drive Development |
 | Systems | Ubuntu, Kali Linux, Windows, MacOS, CentOS | 
 | Tools | GIT, Docker, Ansible |
+| Business | Project Management (PMI), Office, MS Project, Visio, Mac |
 
 #### Projects
 
@@ -31,8 +32,9 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 - [Digitally Imported Playlist Menu](https://nealalan.github.io/di.fm_playlist_menu/) - CLI playlist menu program. The first script requires a premium member API key to generate .pls files for each channel.
 - [Security Plus Exam Quiz](https://nealalan.github.io/quiz-giver-sec-plus/) - Python script I wrote to give random quiz questions that are scored. The script reads questions and answers from 2 large flat files.
 - [Update AWS Route 53](https://nealalan.github.io/update_route53/) - Before Elastic IPs were free, I used a script to grab the EC2 instance IP address and automatically update the EC2 IP address in Route 53.
-- JS Coding Evercises ([repo](https://github.com/nealalan/code-exercises))
 - [Public API Python Scripts](https://github.com/nealalan/Transportation) - Using Python to call public API's for the Chicago Transit Authority Train/Bus Tracker and Divvy Bikeshare station status. Output is parsed and displayed cleanly.
+- JS Coding Evercises ([repo](https://github.com/nealalan/code-exercises))
+- Python & BASH Scripts
 
 #### References
 
