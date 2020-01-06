@@ -1,5 +1,5 @@
 ## Neal Dreher 
-### AWS Certified Solutions Architect Assoc, Developer, Security Analyst, Project Manager
+### AWS Certified Solutions Architect Assoc, Developer, Security Analyst, Project Coordinator
 
 **Contact:** [linkedin.com/in/nealdreher/](https://www.linkedin.com/in/nealdreher/)
 
