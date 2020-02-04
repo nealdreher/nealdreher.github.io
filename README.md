@@ -15,7 +15,7 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### Skillset & Experience
 
-| AWS | IAM, VPC, EC2, Route53, S3, CloudFront, CloudWatch, CloudTrail, CloudFormation, SQS, SNS, CLI, RDS, CodeCommit, Cognito, Auto Scaling, Load Balancing, | 
+| AWS | IAM, VPC, EC2, Route53, S3, CloudFront, CloudWatch, CloudTrail, CloudFormation, SQS, SNS, SES, CLI, RDS, Cognito, Auto Scaling, Load Balancing | 
 |--|--|
 | Security | Security Policy, OWASP, NIST, Pen Testing, Cryptography, Firewalls, vulnerability mgmt, Social Engineering, IR  |
 | Scripting | Python, BASH, Shell, Terraform |
@@ -27,6 +27,7 @@ Neal will pass all drug tests, background and credit checks. He is willing to ob
 
 #### Projects
 
+- [AWS Email Forwarder *for almost free*](https://nealalan.github.io/AWS-Email-Forwarder/) - Steps to setup an email forwarding service via the command line. (uses Route 53, IAM, S3, SES, Lambda, CloudWatch)
 - [AWE EC2 webserver setup using Terraform](https://nealalan.github.io/LAB-AWS_webserver_via_terraform/) - Using the Free Tier, use Terraform (infrastructure as code) to setup and destroy the AWS Infrastructre and server. Includes a bash script to configure the server.
 - [Media Playlist Menu for di.fm](https://nealalan.github.io/di.fm_playlist_menu/) - CLI playlist menu program. The first script requires a premium member API key to generate .pls files for each channel.
 - [Security Plus Exam Quiz](https://nealalan.github.io/quiz-giver-sec-plus/) - Python script I wrote to give random quiz questions that are scored. The script reads questions and answers from 2 large flat files.
